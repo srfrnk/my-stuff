@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+l", "ctrl+c"], "command": "log_commands","args": { "enable": false,"toggle": true } }
+]
